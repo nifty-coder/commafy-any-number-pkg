@@ -1,0 +1,23 @@
+{
+  "name": "commafy-any-number",
+  "version": "1.0.1",
+  "description": "Add commas to any 4+ digit number appropriately and easily.",
+  "main": "index.js",
+  "keywords": [
+    "comma",
+    "commafy",
+    "js",
+    "numbers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nifty-coder/commafy-any-number-pkg/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/nifty-coder/commafy-any-number-pkg/issues"
+  }
+}
